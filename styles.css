@@ -23,7 +23,7 @@ body{
 }
 form{
 	display:flex;
-	
+	background-color:rgb(255, 255, 255);
 	flex-direction:column;
 	gap:10px;
 }
